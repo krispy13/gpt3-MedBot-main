@@ -40,7 +40,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>MedBot</h1>
+            <h1>MedBot!</h1>
             <h2>Your Personal Healthcare Assistant!</h2>
           </div>
           <div className="header-subtitle">
